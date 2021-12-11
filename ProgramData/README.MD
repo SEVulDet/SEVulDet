@@ -1,0 +1,5 @@
+Dataset Composition
+---
+**SARD** provides a total of 252,126 test cases on its website involving many popular languages including C, C++, Java, PHP and others. SARD’s manifest.xml file details the file path, line number, type and language of the vulnerability via xml format. After selection, we finally pick 126,231 C/C++ test cases involving 711 CWE IDs that can be recursively mapped by the tree-structured CWE-1000 onto 126 CWE IDs and eventually divided into four classes as our sample which is much larger than the data set of existing studies. If a code gadget contains one or several vulnerability statements, we mark it as “1” (i.e., a vulnerability exists), and “0” (i.e., no vulnerability) for the contrary case. NVD is a dataset containing open source software vulnerabilities where the software versions are affected by the vulnerabilities and the corresponding patches. 
+
+For **NVD**, we extracted 1590 open source C/C++ programs, of which 54.9% have vulnerabilities and 45.1% do not. the diff file in NVD indicates the location of the vulnerabilities, and each vulnerability corresponds to a CVE ID and CWE ID.
