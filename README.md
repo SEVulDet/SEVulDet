@@ -1,7 +1,7 @@
 # SEVulDet #
 SEVulDet is a semantics-enhanced deep learning-based framework that can accurately pinpoint vulnerability patterns by extracting, preserving, and learning more semantics.
 
-*E-mail* for communication: Provided after the double blind review.
+*E-mail* for communication: zqtang@hnu.edu.cn
 
 ## Details of SEVulDet
 
